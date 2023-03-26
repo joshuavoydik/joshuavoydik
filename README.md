@@ -1,4 +1,4 @@
-- Hey, I'm Joshua. Working on a few projects. 
+- Hey, I'm Joshua.
 
 <!---
 joshuavoydik/joshuavoydik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
