@@ -4,6 +4,4 @@ I spend much of my time learning about and exploring AI—building new tools, tr
 
 Subscribe to my newsletter [**Daily Build**](https://dailybuild.co) where I build new things daily using the latest AI tools.
 
-If you're interested in collaborating, send me an email: **joshua@voydik.com**
-
-✌🏼
+If you're interested in collaborating, send me an email: **joshua@voydik.com** ✌🏼
