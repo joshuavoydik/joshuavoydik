@@ -1,4 +1,5 @@
-```export const joshua = {
+```
+export const joshua = {
   site: 'voydik.com',
   twitter: "x.com/joshuavoydik",
   company: {
@@ -15,4 +16,4 @@
     code: ['Python', 'PyTorch', 'TypeScript', 'React', 'Swift', 'TailwindCSS'],
     design: ['#000000', '#FFFFFF']
   }
-} as Entrepreneur & Advisor & Traveler;```
+} as Entrepreneur & Advisor & Traveler;
