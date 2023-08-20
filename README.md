@@ -1,4 +1,4 @@
-```
+```typescript
 export const joshua = {
   site: 'voydik.com',
   twitter: "x.com/joshuavoydik",
