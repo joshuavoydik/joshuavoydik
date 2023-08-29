@@ -14,6 +14,6 @@ export const joshua = {
   },
   preferences: { 
     code: ['Python', 'PyTorch', 'TypeScript', 'React', 'Swift', 'TailwindCSS'],
-    design: ['#000000', '#FFFFFF']
+    design: ['#141414', '#FFFFFF']
   }
 } as Entrepreneur & Advisor & Traveler;
