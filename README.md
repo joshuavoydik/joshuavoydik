@@ -1,6 +1,7 @@
 ```typescript
 export const joshua = {
   site: 'voydik.com',
+  blog: 'joshua.substack.com',
   twitter: "x.com/joshuavoydik",
   company: {
     // Previously co-founder 
@@ -10,7 +11,7 @@ export const joshua = {
   newsletter: {
     name: "Daily Build",
     url: "https://dailybuild.co",
-    description: "where I build new things daily using the latest AI tools."
+    description: "where I learn how to build using the latest AI tools."
   },
   preferences: { 
     code: ['Python', 'PyTorch', 'TypeScript', 'React', 'Swift', 'TailwindCSS'],
