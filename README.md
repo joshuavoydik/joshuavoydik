@@ -4,17 +4,19 @@ export const joshua = {
   blog: 'joshua.substack.com',
   twitter: "x.com/joshuavoydik",
   company: {
-    // Previously co-founder 
+    newco: "TBD", 
+    description: "a consumer app in AI and ecommerce",
+    // previousy co-founder
     name: "Swell",
     url: "https://swell.is"
   },
-  newsletter: {
-    name: "Daily Build",
-    url: "https://dailybuild.co",
-    description: "where I learn how to build using the latest AI tools."
+  podcast: {
+    name: "The Probably Something Podcast",
+    url: "https://probablysomethingpod.com",
+    description: "a podcast on AI & entrepreneurship."
   },
   preferences: { 
     code: ['Python', 'PyTorch', 'TypeScript', 'React', 'Swift', 'TailwindCSS'],
     design: ['#141414', '#FFFFFF']
   }
-} as Entrepreneur & Advisor & Traveler;
+};
